@@ -34,9 +34,7 @@
 			</div>
 		</div>
 		<footer>
-			<div>
-				フッター
-			</div>
+			<div></div>
 		</footer>
 	</body>
 </html>
