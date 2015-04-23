@@ -8,6 +8,7 @@
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<title>${title}</title>
 		<link rel="stylesheet" href="<c:url value="/css/common-style.css" />">
+		<link rel="stylesheet" href="<c:url value="/css/normalize.css" />">
 	</head> 
 	<body>
 		<header>
