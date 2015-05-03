@@ -17,4 +17,6 @@
 	        <property name="suffix" value=".jsp"/>
 	</bean>
 
+	<!-- 外部ファイルを使うため -->
+	<mvc:resources mapping="/css/**" location="/resources/css/" />
 </beans>
